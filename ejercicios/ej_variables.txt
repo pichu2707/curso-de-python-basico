@@ -1,0 +1,12 @@
+1. Crea tres variable que sea una cadena de texto
+2. Crea tres variables de enteros
+3. Crea tres variables de flotantes
+4. Crea una tupla que contenga al menos un string, un booleano, un float, un entero y una variable None
+5. Crea un diccionario con diferentes claves y valores
+6. Muestra las claves del diccionario
+7. Muestra los valores del diccionario
+8. Crea una lista con 4 valores
+8. Borra el último valor de la lista
+9. Amplia un valor float a la lista
+10. Borra toda la lista
+
