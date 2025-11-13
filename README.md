@@ -1,4 +1,4 @@
-![Curso de Python desde Cero](images\curso-python.png)
+![Curso de Python desde Cero](/images/curso-python.png)
 # Curso de Python
 
 Creación de curso que está siendo retransmitido en [Twitch](https://www.twitch.tv/javilazaro1) y [Youtube](https://www.youtube.com/@JaviLazaro) con la intención que la gente tome las nociones básicas del lenguaje de programación de Python.
