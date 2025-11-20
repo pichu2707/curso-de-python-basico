@@ -85,4 +85,4 @@ Para ampliar: valida entradas, parametriza la altura del triángulo, añade mane
 
 
 ## Información:
-Puedes encontrar más información en mi web [javilazaro.es](https://www.javilazaro.es) o bien en [AnalAIzer.digital](https://analaizer.digital) donde tienes la academía con los compañeros y donde poder compartir avances.
+Puedes encontrar más información en mi web [javilazaro.es](https://www.javilazaro.es) o bien en [AnalAIzer.digital](https://analaizer.digital) donde tienes la academia con los compañeros y donde poder compartir avances.
