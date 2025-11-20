@@ -1,0 +1,10 @@
+1. Crea dos a través de teclado int 
+2. Suma los números 
+3. Resta los números
+4. Multiplica los dos números
+5. Haz una comparativa de los números y que nos diga cual es mayor y cual es menor
+6. Haz que nos cuente un bucle con for y con while desde el número que marcaste primero hasta el segundo de uno en uno
+7. Divide el número y di que resto tendría
+8. Escribe una edad y que diga cuanto le falta para ser mayor de edad (18 años) adulto (hasta los 50) maduro (en adelante)
+9. Haz un contador de unidades que por cada decena se sume y de ahí hasta llegar a 100 y cuente la centena
+10. Dibuja un triángulo con for usando * como puntero 
