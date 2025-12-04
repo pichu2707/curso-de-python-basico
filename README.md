@@ -9,6 +9,7 @@ Creación de curso que está siendo retransmitido en [Twitch](https://www.twitch
 -----------------------
 1. [Variables](https://www.youtube.com/watch?v=5EG7FSaCEdc&t=377s!suscriber)
 2. [Flujos](https://www.youtube.com/watch?v=I6-Lc3ikfxo)
+3. [Control de errores](https://www.youtube.com/watch?v=I6-Lc3ikfxo)
 
 ## 1. Variables y Tipos Básicos
 Archivo de referencia: `02_variable.py`
@@ -83,6 +84,47 @@ Los retos están pensados para consolidar lo anterior mediante práctica guiada:
 
 Para ampliar: valida entradas, parametriza la altura del triángulo, añade manejo de errores con `try/except`.
 
+## 7. Control de errores
+Archivo de referencia: `04_control_errores.py` donde estamos viendo los errores que pueden ocurrir y como controlarlos.
+
+En este directo hemos trabajado uno de los pilares fundamentales de cualquier lenguaje de programación: el control de errores. Entender cómo se producen, cómo identificarlos y cómo gestionarlos correctamente nos permite escribir código más robusto, más profesional y mucho más fácil de depurar.
+
+Durante la sesión hemos recorrido los diferentes tipos de errores que pueden aparecer en Python, desde los más básicos hasta el uso de excepciones personalizadas y notas en excepciones. Aquí tienes un resumen de todo lo que hemos tratado:
+
+### 1. Errores de sintaxis
+
+Son los errores que aparecen antes de que el programa pueda ejecutarse. Suelen venir por:
+* Paréntesis sin cerrar
+* Palabras clave mal escritas
+* Falta de dos puntos
+* Indentación incorrecta
+
+### 2. Errores lógicos
+El programa se ejecuta, pero el resultado es incorrecto porque la lógica es errónea.
+
+### 3. Errores de ejecución (Runtime Errors)
+Son errores que aparecen mientras el programa está funcionando.
+Aquí ya entran las excepciones: `ValueError`, `ZeroDivisionError`, etc.
+
+### 4. Excepciones personalizadas
+Creamos nuestras propias excepciones para dar mensajes más claros y adaptados al contexto.
+
+### 5. Añadir notas a excepciones
+También vimos cómo enriquecer las excepciones con notas adicionales:
+
+### 6. Validación de tipos y buenas prácticas
+Reforzamos la importancia de validar los argumentos antes de usarlos.
+
+El objetivo ha sido que entiendas:
+- Qué tipos de errores existen
+- Cómo reconocerlos cuando aparecen
+- Cómo capturarlos sin que tu programa deje de funcionar
+- Cómo crear tus propias excepciones
+- Cómo escribir funciones seguras y fiables
+Ahora tienes la base para manejar errores como un verdadero desarrollador profesional y evitar horas de frustración buscando fallos.
+
+## 8. Ejercicios (qué practicarás)
+Archivo: `resultados/res_control_errores.py`
 
 ## Información:
 Puedes encontrar más información en mi web [javilazaro.es](https://www.javilazaro.es) o bien en [AnalAIzer.digital](https://analaizer.digital) donde tienes la academia con los compañeros y donde poder compartir avances.
