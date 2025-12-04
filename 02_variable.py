@@ -40,6 +40,10 @@ print(edad)
 estatura: float = 1.75
 print(estatura)
 
+# Variables números complejos
+numero_complejo: complex = 3 + 4j
+print(numero_complejo)
+
 # Variables Booleanas (True o False)
 es_verdadero: bool= True
 es_falso: bool = False

@@ -126,5 +126,77 @@ Ahora tienes la base para manejar errores como un verdadero desarrollador profes
 ## 8. Ejercicios (qué practicarás)
 Archivo: `resultados/res_control_errores.py`
 
+## 9. Funciones
+Funciones en Python — Resumen del Temario
+Este documento resume los conceptos vistos en clase sobre funciones en Python. El vídeo asociado contiene todos los ejemplos prácticos, por lo que aquí solo se incluye la explicación teórica.
+
+### 1. ¿Qué es una función?
+Una función es un bloque de código reutilizable que permite agrupar instrucciones para realizar una tarea concreta.
+* Sirven para:
+* Evitar repetir código
+* Mejorar la organización
+* Facilitar el mantenimiento
+* Trabajar de forma modular
+
+### 2. Cómo definir una función
+Para crear una función se utiliza la palabra clave def, seguida del nombre de la función y sus parámetros.
+Una función puede devolver un valor mediante return.
+
+### 3. Documentación de funciones (Docstrings)
+Las funciones pueden llevar documentación interna para:
+* Explicar qué hace la función
+* Describir los parámetros
+* Indicar qué devuelve
+Esto ayuda a otros desarrolladores (y a ti mismo en el futuro) a entender el propósito de la función.
+
+### 4. Parámetros y argumentos
+Las funciones pueden recibir valores llamados parámetros.
+Los valores que se pasan al llamar a la función se llaman argumentos.
+
+Python permite:
+* Parámetros obligatorios
+* Parámetros opcionales con valores por defecto
+* Parámetros nombrados
+
+### 5. Condicionales dentro de funciones
+Dentro de una función se pueden usar estructuras de control como:
+* if
+* elif
+* else
+Para tomar decisiones en base a los datos recibidos.
+
+### 6. Funciones que retornan funciones (Closures)
+Python permite que una función devuelva otra función.
+Esto se usa para:
+* Crear funciones personalizadas
+* Generar configuraciones internas
+* Aplicar patrones de diseño como funciones fábrica
+
+### 7. Funciones recursivas
+Una función recursiva es aquella que se llama a sí misma.
+Se usa para:
+* Problemas que se pueden dividir en partes más pequeñas
+* Cálculos matemáticos como factoriales
+* Algoritmos sobre estructuras como árboles o directorios
+Siempre deben incluir un caso base para evitar recursión infinita.
+
+### 8. Manejo de excepciones en funciones
+El manejo de errores se realiza mediante:
+* try
+* except
+* else
+Permite controlar situaciones como divisiones por cero, tipos incorrectos, etc., evitando que el programa se detenga.
+
+### 9. Aserciones
+Las aserciones se utilizan para verificar que una condición se cumple.
+Si no se cumple, se lanza un error con un mensaje personalizado.
+Son útiles para validar parámetros antes de continuar la ejecución.
+
+### 10. Argumentos variables: *args y **kwargs
+Python permite funciones con un número variable de argumentos:
+***args** → recibe argumentos posicionales ilimitados
+****kwargs** → recibe argumentos con nombre ilimitados
+Esto permite crear funciones muy flexibles que aceptan diferentes combinaciones de valores.
+
 ## Información:
 Puedes encontrar más información en mi web [javilazaro.es](https://www.javilazaro.es) o bien en [AnalAIzer.digital](https://analaizer.digital) donde tienes la academia con los compañeros y donde poder compartir avances.

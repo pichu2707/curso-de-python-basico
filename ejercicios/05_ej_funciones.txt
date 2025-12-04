@@ -1,0 +1,25 @@
+1. Crea una función que reciba un nombre y devuelva un saludo.
+2. Función que calcule el área de un triángulo.
+    Entrada: base y altura
+    Salida: área
+    Fórmula: (base * altura) / 2
+3. Función que determine si un número es par o impar.
+    Debe devolver "par" o "impar".
+4. Función que reciba una lista y devuelva su longitud.
+    No puedes usar len() dentro de la función.
+5. Función que cuente cuántas vocales hay en un texto.
+    Debe contar minúsculas y mayúsculas.
+6. Función que reciba un número n y devuelva una lista con los n primeros números de Fibonacci.
+    Ejemplo:
+    Entrada → 5
+    Salida → [0, 1, 1, 2, 3]
+7. Crea una función que reciba una lista y devuelva otra lista sin elementos repetidos (sin usar set).
+8. Función que acepte un número variable de argumentos y devuelva su suma.
+9. Función que reciba un diccionario y devuelva otro diccionario con las claves ordenadas alfabéticamente.
+10. Función que actúe como un pequeño validador de contraseñas.
+Debe devolver True si la contraseña cumple:
+    Mínimo 8 caracteres
+    Al menos una mayúscula
+    Al menos una minúscula
+    Al menos un número
+    Si no, devolver False.
