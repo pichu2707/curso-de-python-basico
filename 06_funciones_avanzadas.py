@@ -103,4 +103,4 @@ print(producto)
 # Funciones lambda también pueden contener otras funciones lambda
 aplicar = lambda func, *args, **kwargs: func(*args, **kwargs)
 resultado = aplicar(lambda x, y: x ** y, 2, 3)
-print(f"2 elevado a 3 es: {resultado}
+print(f"2 elevado a 3 es: {resultado}")
