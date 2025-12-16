@@ -1,0 +1,11 @@
+1. Crea una función en el que podamos calcular la media, la máxima, y la mínima
+2. Concatename los elementos de varias listas con una funación sin tener en cuenta el número de de elementos que tenemos
+3. Valida si los argumentos son del mismo tipo
+4. Muestrame la información de un usuario que introduzcamos en pantalla con una función
+5. Ahora la informacion debe ser con una función que tenga *args y **kwargs
+6. Haz una suma con una función
+7. Haz la misma suma usando lambda
+8. Usa argumentos tipo *args en lambda
+9. Haz una función lambda en el que uses la función map
+10. Ahora haz una función lambda con Filter y reduce
+

@@ -1,4 +1,4 @@
-# Cómo definir una función
+#Cómo definir una función
 # def nombre_de_la_funcion(parametro1, parametro2):
 #     return resultado
 def suma(a: int, b: int) -> int:
