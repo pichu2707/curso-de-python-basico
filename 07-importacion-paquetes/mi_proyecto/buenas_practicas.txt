@@ -1,0 +1,23 @@
+# Las librerías standars
+import os
+import math
+import datetime
+...
+
+# Librerías de terceros
+import numpy as np
+import pandas as pd
+import streamlit as st
+...
+
+# Librerías locales
+import suma
+from utilidades import limpiar_texto
+from utilidades import (
+limpiar_texto,
+suma,
+media,
+...
+)
+...
+
