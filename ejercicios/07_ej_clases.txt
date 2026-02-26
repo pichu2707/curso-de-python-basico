@@ -1,0 +1,5 @@
+Tienes que hacer una clase de una cuenta bancaria en el que:
+Sepamos el saldo por pantalla
+Podamos ingresar una cantidad
+Podamos sacar una cantindad
+Si esa cantidad es menor a saldo inicial que nos avise que el saldo es bajo

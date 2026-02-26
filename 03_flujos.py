@@ -1,4 +1,4 @@
-# Números complejos
+# https://www.casinobarcelona.es/ Números complejos
 x = 3.5
 print(x)
 print(type(x))
@@ -13,28 +13,28 @@ print(type(z))
 numero1 = 10
 numero2 = 3
 
-#Suma
+# Suma
 suma = numero1 + numero2
 print("La suma es:", suma)
 
-#Resta
+# Resta
 resta = numero1 - numero2
 print("La resta es:", resta)
 
-#Multiplicación
+# Multiplicación
 multiplicacion = numero1 * numero2
 print("La multiplicación es:", multiplicacion)
 
-#División
+# División
 division = numero1 / numero2
 print("La división es:", division)
 
-#Módulo
+# Módulo
 modulo = numero1 % numero2
 print("El módulo es:", modulo)
 
-#Potenciación
-potenciacion = numero1 ** numero2
+# Potenciación
+potenciacion = numero1**numero2
 print("La potenciación es:", potenciacion)
 
 # División entera
@@ -43,7 +43,7 @@ print("La división entera es:", division_entera)
 
 # estructuras de control de flujo
 
-a = 0 
+a = 0
 b = 5
 
 if a > b:
@@ -75,7 +75,7 @@ if a <= b:
 # if a == b or a < b:
 #     print("a es igual que b o a es menor que b")
 
-#if-else
+# if-else
 
 """
 Diagrama de flujo de if-else
@@ -120,7 +120,7 @@ variable=0
 while <condicion>
 sentencia
 variable +=1
-""" 
+"""
 
 contador = 10
 
@@ -174,3 +174,4 @@ edad = 41
 print(f"hola {nombre}, tienes {edad} años")
 print("hola {}, tienes {} años".format(nombre, edad))
 print("Hola a todos", "mi nombre es", sep="\n", end=".\n")
+
